@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grantholomeu
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning more about Python 3
+- 🌱 I’m currently learning more about Python 3, SQL, Tableau, and Machine Learning.
 - 💞️ I’m looking to collaborate on most anything that allows me to practice my Python skills
 - 📫 Reach me at grantholomeu7@gmail.com
 
